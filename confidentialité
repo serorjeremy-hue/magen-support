@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Politique de confidentialité – Magen</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;line-height:1.6;margin:0;padding:20px;max-width:800px}
+    h1{font-size:28px;margin-bottom:12px}
+    h2{margin-top:22px}
+  </style>
+</head>
+<body>
+  <h1>Politique de confidentialité – Magen</h1>
+  <p>Magen respecte ta vie privée. Cette page explique quelles données sont collectées et comment elles sont utilisées.</p>
+
+  <h2>Données collectées</h2>
+  <ul>
+    <li><strong>Localisation</strong> : uniquement pour afficher les horaires juifs (Shabbat, Zmanim) et orienter la boussole. La localisation n’est jamais stockée sur nos serveurs.</li>
+    <li><strong>Identifiants techniques</strong> : utilisés uniquement pour améliorer l’app (diagnostics anonymes en cas de bug).</li>
+    <li><strong>Notifications</strong> : si tu les actives, elles servent uniquement à t’envoyer des rappels liés aux horaires.</li>
+  </ul>
+
+  <h2>Partage de données</h2>
+  <p>Nous ne partageons aucune donnée personnelle avec des tiers. Les seules informations échangées sont techniques et nécessaires au bon fonctionnement de l’application.</p>
+
+  <h2>Conservation des données</h2>
+  <p>Aucune donnée personnelle n’est stockée en dehors de ton appareil.</p>
+
+  <h2>Contact</h2>
+  <p>Si tu as des questions : <a href="mailto:support@magen.app">support@magen.app</a></p>
+
+  <p><small>Dernière mise à jour : août 2025</small></p>
+</body>
+</html>
